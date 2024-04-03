@@ -1,4 +1,4 @@
-#11
+# 11
 # def get_square_color(position):
 #     column, row = position[0], int(position[1])
 #     # Перевірка на парність рядка і стовпчика
@@ -14,9 +14,9 @@
 #
 # if __name__ == "__main__":
 #     main()
-
-
-#12  Level noon
+#
+#
+# 12  Level noon
 # def is_palindrome(s):
 #     # Перетворюємо рядок у нижній регістр та видаляємо пробіли
 #     s = s.lower().replace(" ", "")
@@ -37,7 +37,7 @@
 # if __name__ == "__main__":
 #     main()
 
-#13
+# 13
 # def multiplication_table(rows, cols):
 #     for i in range(1, rows + 1):
 #         for j in range(1, cols + 1):
@@ -58,14 +58,14 @@
 # if __name__ == "__main__":
 #     main()
 
-#14
+# 14
 # Як відомо, День програміста припадає на 256 день року,
 # у невисокосний рік це 13 вересня, а у високосний - 12.
 # Дізнайтеся число і номер місяця, що припадають на день,
 # за номером n, який вводиться користувачем, у невисокосному
 # 2017 році.
-
-#15
+#
+# 15
 # def decimal_to_binary(decimal):
 #     if decimal == 0:
 #         return "0"
@@ -96,7 +96,7 @@
 # if __name__ == "__main__":
 #     main()
 
-#16
+# 16
 # def caesar_cipher(message, shift):
 #     encrypted_message = ""
 #     for char in message:
@@ -123,7 +123,7 @@
 # if __name__ == "__main__":
 #     main()
 
-#17
+# 17
 # import random
 #
 # def generate_random_password():
@@ -140,7 +140,7 @@
 # if __name__ == "__main__":
 #     main()
 
-#18
+# 18
 # import random
 #
 # def guess_number(secret_number, max_attempts):
@@ -170,7 +170,7 @@
 # if __name__ == "__main__":
 #     main()
 
-#19
+# 19
 # import random
 #
 # def get_computer_choice():
